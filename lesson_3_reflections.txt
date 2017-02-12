@@ -20,3 +20,8 @@ branch --> part of a repository to separate separate lines of development, i.e. 
 
 you could fetch a possibly changed code on the server and merge it afterwards to change local branch
 
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+harder: keep track of changes made by team members
+
