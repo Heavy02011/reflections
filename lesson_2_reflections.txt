@@ -30,3 +30,7 @@ diagrams help to separate individual branches with their feature list
 get all changes from both branches intzo a single one ordered by date/time
 
 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+in case of conflicts autzomatic merging won't work well unless reviewing the code manually by both contributors
+
