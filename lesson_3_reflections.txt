@@ -14,3 +14,9 @@
 fork --> clone a repository on the servers of GitHub
 clone --> either local or server copy of repository
 branch --> part of a repository to separate separate lines of development, i.e. bug-fixes, feature implementation, demo versions etc.
+
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+you could fetch a possibly changed code on the server and merge it afterwards to change local branch
+
