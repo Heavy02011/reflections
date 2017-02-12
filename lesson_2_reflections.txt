@@ -1,0 +1,8 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+a folder .git will be created to keep track of all file changes in the repository
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area collects all changes for a commit and helps to keep track of them by using status
