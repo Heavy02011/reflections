@@ -18,3 +18,9 @@ collect all changes which are part of a logical change at one place and commit t
 - test for ewxperimental features that might become part of the main branch
 - demo versions
 one could later on merge into the master branch
+
+
+5. How do the diagrams help you visualize the branch structure?
+
+diagrams help to separate individual branches with their feature list
+
