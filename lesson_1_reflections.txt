@@ -1,0 +1,38 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+I already knew that from coding a lot of fortran stuff back in 1990.
+
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It will be a great overview to keep track of the changes made on a specific moment.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
++complete control over versioning
+-commits might be too small or big
+-easy to forget a commit when deep in work
+
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+git is specifically designecd for coding where multiple files are part of the whole product. Google Docs e.g. is just a cloud-based file/Offic e package
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+git log shows all the history of individual commits with the changes stated as comments
+git diff allows to see individual differences between files, i.e. added or deleted rows
+
+6. How might using version control make you more confident to make changes that could break something?
+
+it is very easy to flip back to a working version of the code
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+well, for all coding in the carnd
+
+-----
+
+When you've created your document, written down your thoughts, and saved the file, click "Next" to learn about some systems that can help you create these versions of your files.
+Like Sarah said, there is a lot of research out there on reflection. If you want a quick intro with some neat graphics, check out this site.
