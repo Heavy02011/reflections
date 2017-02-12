@@ -24,3 +24,9 @@ one could later on merge into the master branch
 
 diagrams help to separate individual branches with their feature list
 
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+get all changes from both branches intzo a single one ordered by date/time
+
+
