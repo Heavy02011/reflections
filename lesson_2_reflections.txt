@@ -6,3 +6,15 @@ a folder .git will be created to keep track of all file changes in the repositor
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 the staging area collects all changes for a commit and helps to keep track of them by using status
+
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+collect all changes which are part of a logical change at one place and commit them when it is working
+
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- test for ewxperimental features that might become part of the main branch
+- demo versions
+one could later on merge into the master branch
