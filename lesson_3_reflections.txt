@@ -25,3 +25,7 @@ you could fetch a possibly changed code on the server and merge it afterwards to
 
 harder: keep track of changes made by team members
 
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+already answered, see above
